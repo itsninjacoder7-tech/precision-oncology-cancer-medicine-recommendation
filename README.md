@@ -189,3 +189,7 @@ Trastuzumab targets HER2 receptors and improves survival outcomes.
 ## License
 
 This project is developed for educational and research purposes under the Summer Internship Program at IIITDM Kurnool.
+By 
+PAGADALA VENKATA RAMANA
+G PULLAREDDY ENGINEERING COLLEGE,KURNOOL.
+CSD(DATA SCIENCE).
