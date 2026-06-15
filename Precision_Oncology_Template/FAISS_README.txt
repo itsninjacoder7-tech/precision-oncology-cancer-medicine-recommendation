@@ -1,0 +1,1 @@
+A real .faiss index must be built from embeddings of your oncology documents. A placeholder cannot function as a search index.

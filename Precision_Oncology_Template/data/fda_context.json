@@ -1,0 +1,27 @@
+[
+  {
+    "gene":"EGFR",
+    "disease":"NSCLC",
+    "drug":"Osimertinib"
+  },
+  {
+    "gene":"ALK",
+    "disease":"NSCLC",
+    "drug":"Alectinib"
+  },
+  {
+    "gene":"HER2",
+    "disease":"Breast Cancer",
+    "drug":"Trastuzumab"
+  },
+  {
+    "gene":"BRAF V600E",
+    "disease":"Melanoma",
+    "drug":"Dabrafenib + Trametinib"
+  },
+  {
+    "gene":"BRCA1/2",
+    "disease":"Ovarian Cancer",
+    "drug":"Olaparib"
+  }
+]
