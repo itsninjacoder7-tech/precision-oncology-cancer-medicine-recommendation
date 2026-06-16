@@ -6,3 +6,6 @@ faiss-cpu
 sentence-transformers
 scikit-learn
 tqdm
+Flask
+gunicorn
+pdfplumber
